@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faqja ime</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mirësevini në faqen time!</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Kreu</a></li>
+                <li><a href="#about">Rreth Nesh</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Kreu</h2>
+        <p>Ky është seksioni kryesor i faqes sime.</p>
+    </section>
+
+    <section id="about">
+        <h2>Rreth Nesh</h2>
+        <p>Informacione për faqen dhe qëllimin e saj.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Shkruani pyetjet tuaja këtu.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Faqja ime</p>
+    </footer>
+</body>
+</html>
